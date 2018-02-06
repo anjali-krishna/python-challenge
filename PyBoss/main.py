@@ -6,8 +6,8 @@ import datetime
 import re
 
 # Set path for file
-csvpath_1 = os.path.join("Resources", "employee_data1.csv")
-output_path = os.path.join("Resources", "new1.csv")
+csvpath_1 = os.path.join("Resources", "employee_data2.csv")
+output_path = os.path.join("Resources", "output_employee.csv")
 
 # Initialize lists
 Emp_Id=[]
